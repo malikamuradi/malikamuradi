@@ -14,4 +14,4 @@
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=malikamuradi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-profile-trophy.vercel.app/?username=malikamuradi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
