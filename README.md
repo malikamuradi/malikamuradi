@@ -1,10 +1,8 @@
 ## Hi, I'm Malika!
 
 👩🏻‍💻 I am a reseacher.<br/>
-👩🏻‍🎓 Studied Computer Science at the [BRAC university](https://www.bracu.ac.bd/) Dhaka, Bangladesh and [Kateb University](https://kateb.edu.af)<br/>
-🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/c/MagdelineHuang)<br/>
-🌷 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>
-💭 Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
+👩🏻‍🎓 Studied Computer Science at the [BRAC university](https://www.bracu.ac.bd/) Dhaka, Bangladesh and [Kateb University](https://kateb.edu.af) Kabul, Afghanistan.<br/>
+💭 Currently improving my analytical thinking and problem solving. <br/>
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
