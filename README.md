@@ -4,7 +4,7 @@
 👩🏻‍🎓 Studied Computer Science at the [BRAC university](https://www.bracu.ac.bd/) Dhaka, Bangladesh and [Kateb University](https://kateb.edu.af) Kabul, Afghanistan.<br/>
 💭 Currently improving my analytical thinking and problem solving. <br/>
 
-# 💻 Tech Stack
+# Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
